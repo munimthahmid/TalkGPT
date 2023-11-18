@@ -1,0 +1,8 @@
+pip install SpeechRecognition
+pip install openai
+pip install Pillow
+pip install requests
+pip install validator-collection
+pip install fpdf
+pip install email
+pip install ssl
