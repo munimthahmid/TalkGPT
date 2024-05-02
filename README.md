@@ -1,5 +1,5 @@
 # TalkGPT
-#### Video Demo: [Click Here](https://youtu.be/P6o6s7Ks_VI)]
+#### Video Demo: [Click Here](https://youtu.be/P6o6s7Ks_VI)
 
 ## Description
 TalkGPT is a project that leverages OpenAI's GPT-3.5 architecture to provide two main functionalities:
